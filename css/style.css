@@ -1,0 +1,16 @@
+body{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(180deg,white, orange);
+}
+.bg-color{
+    margin-top: 20px;
+}
+.bg-color h2{
+    font-weight: bold;
+}
+.bg-color p{
+    text-align: center;
+}
+.col-md-3 img{
+    margin-bottom: 10px;
+}
